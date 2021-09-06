@@ -12,8 +12,8 @@ client_id=os.environ['client_id'],
 client_secret=os.environ['client_secret'],
 v='20180323',
 ll='52.372473,4.896255',
-query='[restaurant, food]',
-categoryId = '4bf58dd8d48988d10e941735',
+# query='coffee',
+categoryId = ['4bf58dd8d48988d10e941735','4bf58dd8d48988d1e0931735'],
 radius='3000',
 limit=100
 )
