@@ -1,4 +1,4 @@
 #  Educational Repository
 
 
-This repository consists of coding material for tutorials and exercises.
+This repository consists of code used in tutorials and exercises.
